@@ -1,0 +1,15 @@
+﻿Сборка начата 26.09.2017 19:08:40.
+     1>Проект "C:\Users\HP\Desktop\mp2-lab1-set-master\sln\vc12\bitfield\bitfield.vcxproj" в узле 3 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../../include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\src\tbitfield.cpp ..\..\..\src\tset.cpp
+         tbitfield.cpp
+         tset.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\HP\Desktop\mp2-lab1-set-master\sln\vc12\Release\bitfield.lib" /NOLOGO /LTCG Release\tbitfield.obj
+         Release\tset.obj
+         bitfield.vcxproj -> C:\Users\HP\Desktop\mp2-lab1-set-master\sln\vc12\Release\bitfield.lib
+     1>Сборка проекта "C:\Users\HP\Desktop\mp2-lab1-set-master\sln\vc12\bitfield\bitfield.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:09.90

@@ -1,0 +1,13 @@
+﻿Сборка начата 26.09.2017 19:08:40.
+     1>Проект "C:\Users\HP\Desktop\mp2-lab1-set-master\sln\vc12\gtest\gtest.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D GTEST_EXPORTS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\gtest\gtest-all.cc"
+         gtest-all.cc
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\HP\Desktop\mp2-lab1-set-master\sln\vc12\Release\gtest.lib" /NOLOGO /LTCG "Release\gtest-all.obj"
+         gtest.vcxproj -> C:\Users\HP\Desktop\mp2-lab1-set-master\sln\vc12\Release\gtest.lib
+     1>Сборка проекта "C:\Users\HP\Desktop\mp2-lab1-set-master\sln\vc12\gtest\gtest.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:13.49
